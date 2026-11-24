@@ -1,6 +1,5 @@
 # 🔥 Lab 18 : FireStorm — Résolution CTF Android + Firebase
 
-## Repo Name : `android-security-lab18-firestorm-firebase-ctf`
 
 ---
 
